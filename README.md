@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 [CM project](https://github.com/dsapir4422/Current-Mirrors-comparison/blob/main/README.md)
 
-[Telescopic_Amplifier](https://github.com/dsapir4422/Telescopic_Amplifier/edit/main/README.md)
+[Telescopic_Amplifier](https://github.com/dsapir4422/Telescopic_Amplifier/blob/main/README.md)
