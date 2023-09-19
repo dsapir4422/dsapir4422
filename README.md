@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there, I am Daniel an Amateur Analog Design engineer 👋
+**Disclaimer**: The below Analog projects presented herein are an independent academic endeavor and is not affiliated with or related to my daily job or professional responsibilities. The content, ideas, and research for this project are derived solely from academic sources, books, and online materials. Any opinions or conclusions expressed in this project are personal and do not represent the views or positions of my employer or organization.
 <!--
 **dsapir4422/dsapir4422** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[CM project](https://github.com/dsapir4422/Current-Mirrors-comparison/blob/main/README.md)
+
+**Small Analog projects**
+
+[Current mirrors comparison](https://github.com/dsapir4422/Current-Mirrors-comparison/blob/main/README.md)
 
 [Telescopic_Amplifier](https://github.com/dsapir4422/Telescopic_Amplifier/blob/main/README.md)
+
+[Single stage 5T-OTA](https://github.com/dsapir4422/5T_OTA/blob/main/README.md)
