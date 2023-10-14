@@ -28,6 +28,8 @@ Feel free to contribute and commit.
 
 [2 stage OTA Buffer with Beta-multiplier](https://github.com/dsapir4422/2-stage-OTA-buffer-w-Beta-multiplier)
 
+[BandGap-cell-with-opamp-feedback](https://github.com/dsapir4422/BGAP-cell-with-feedback/blob/main/README.md)
+
 **Small scale Analog projects**
 
 [Current mirrors comparison](https://github.com/dsapir4422/Current-Mirrors-comparison/blob/main/README.md)
