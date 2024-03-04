@@ -37,3 +37,5 @@ Feel free to contribute and commit.
 [Telescopic_Amplifier](https://github.com/dsapir4422/Telescopic_Amplifier/blob/main/README.md)
 
 [Single stage 5T-OTA](https://github.com/dsapir4422/5T_OTA/blob/main/README.md)
+
+[Decoder_4->16_with_pre-decoding_stage](https://github.com/dsapir4422/Decoder_4_16/blob/main/README.md)
