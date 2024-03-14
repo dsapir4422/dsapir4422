@@ -26,6 +26,8 @@ Feel free to contribute and commit.
 ## Projects
 **Large scale Analog projects**
 
+[LDO design with BandGap and beta-multiplier ](https://github.com/dsapir4422/LDO_design)
+
 [2 stage OTA Buffer with Beta-multiplier](https://github.com/dsapir4422/2-stage-OTA-buffer-w-Beta-multiplier)
 
 [BandGap-cell-with-opamp-feedback](https://github.com/dsapir4422/BGAP-cell-with-feedback/blob/main/README.md)
