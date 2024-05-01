@@ -32,6 +32,8 @@ Feel free to contribute and commit.
 
 [BandGap-cell-with-opamp-feedback](https://github.com/dsapir4422/BGAP-cell-with-feedback/blob/main/README.md)
 
+[Sub-BGR-with-slope-and-curvature-correction](https://github.com/dsapir4422/Sub-BGR-with-slope-and-curvature-correction)
+
 **Small scale Analog projects**
 
 [Current mirrors comparison](https://github.com/dsapir4422/Current-Mirrors-comparison/blob/main/README.md)
