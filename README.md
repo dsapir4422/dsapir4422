@@ -24,22 +24,28 @@ Feel free to contribute and commit.
 
 ---------------------------------
 ## Projects
-**Large scale Analog projects**
+**Op-amps**
 
-[LDO design with BandGap and beta-multiplier ](https://github.com/dsapir4422/LDO_design)
+[Folded cascode amplifier](https://github.com/dsapir4422/Folded_Cascode_Amplifier)
 
 [2 stage OTA Buffer with Beta-multiplier](https://github.com/dsapir4422/2-stage-OTA-buffer-w-Beta-multiplier)
+
+[Telescopic_Amplifier](https://github.com/dsapir4422/Telescopic_Amplifier/blob/main/README.md)
+
+[Single stage 5T-OTA](https://github.com/dsapir4422/5T_OTA/blob/main/README.md)
+
+**Band-Gaps**
 
 [BandGap-cell-with-opamp-feedback](https://github.com/dsapir4422/BGAP-cell-with-feedback/blob/main/README.md)
 
 [Sub-BGR-with-slope-and-curvature-correction](https://github.com/dsapir4422/Sub-BGR-with-slope-and-curvature-correction)
 
-**Small scale Analog projects**
+**Bias**
+
+[LDO design with BandGap and beta-multiplier ](https://github.com/dsapir4422/LDO_design)
 
 [Current mirrors comparison](https://github.com/dsapir4422/Current-Mirrors-comparison/blob/main/README.md)
 
-[Telescopic_Amplifier](https://github.com/dsapir4422/Telescopic_Amplifier/blob/main/README.md)
-
-[Single stage 5T-OTA](https://github.com/dsapir4422/5T_OTA/blob/main/README.md)
+**Digital related**
 
 [Decoder_4->16_with_pre-decoding_stage](https://github.com/dsapir4422/Decoder_4_16/blob/main/README.md)
