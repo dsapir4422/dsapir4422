@@ -36,7 +36,9 @@ Feel free to contribute and commit.
 
 **Band-Gaps**
 
-[BandGap-cell-with-opamp-feedback](https://github.com/dsapir4422/BGAP-cell-with-feedback/blob/main/README.md)
+[Switched Capacitor BGREF](https://github.com/dsapir4422/Switched-Capacitor-BGREF)
+
+[BandGap cell with opamp feedback](https://github.com/dsapir4422/BGAP-cell-with-feedback/blob/main/README.md)
 
 [Sub-BGR-with-slope-and-curvature-correction](https://github.com/dsapir4422/Sub-BGR-with-slope-and-curvature-correction)
 
