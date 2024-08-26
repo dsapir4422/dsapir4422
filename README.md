@@ -34,6 +34,8 @@ Feel free to contribute and commit.
 
 [Single stage 5T-OTA](https://github.com/dsapir4422/5T_OTA/blob/main/README.md)
 
+[Cascode opamp with floating current mirror](https://github.com/dsapir4422/Cascode_opamp_with_floating_current_mirror/blob/main/README.md)
+
 **Band-Gaps**
 
 [Switched Capacitor BGREF](https://github.com/dsapir4422/Switched-Capacitor-BGREF)
